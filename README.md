@@ -1,3 +1,3 @@
 # Todo App with PHP
 
-Aplikasi Todo App dengan menggunakan PHP
+Aplikasi Todo ditulis dengan PHP
