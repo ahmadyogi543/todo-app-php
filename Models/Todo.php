@@ -1,0 +1,3 @@
+<?php
+
+$todos = array();
